@@ -3,7 +3,7 @@
 >* [pptx_file](#pptx_file)
 >* [code](#code)
 >* [result_chart](#result_chart)
->* [Results.png and newResults.png](#Results.png and newResults.png)
+>* [model_output](#model_output)
 >* [License](#License)
 
 
@@ -29,8 +29,8 @@ dataset = "/content/drive/My Drive/keras-covid-19/dataset"
 
 ![result chart](https://user-images.githubusercontent.com/53394692/106428180-cbee1700-647d-11eb-8bbd-4c36c45fc935.png)
 
-## Results.png and newResults.png 
-> for seeing the model result in covid+ and covid- images,run the following command in your `covid-colab.ipynb` file:
+## model_output 
+> for seeing the model result in covid+ and covid- images,run the following command in your `covid-colab.ipynb` file and see results in `Results.png and newResults.png` files:
 
 ```
 --image:directory of images , --model:directory of saved weight
