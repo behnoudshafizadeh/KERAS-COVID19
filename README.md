@@ -25,19 +25,20 @@ dataset = "/content/drive/My Drive/keras-covid-19/dataset"
 
 ## result chart
 > see the training loss and accuracy in this chart that illustrates the loss is decrasing and the accuracy is increasing in both of them (training and validation)
+
 ![result chart](https://user-images.githubusercontent.com/53394692/106428180-cbee1700-647d-11eb-8bbd-4c36c45fc935.png)
 
 ## Results.png and newResults.png 
 > for seeing the model result in covid+ and covid- images,run the following command in your `covid-colab.ipynb` file:
 
-![newResults](https://user-images.githubusercontent.com/53394692/106427649-f8edfa00-647c-11eb-9e52-d324e9f7aaf4.png)
-![Results](https://user-images.githubusercontent.com/53394692/106427996-7fa2d700-647d-11eb-9a34-7ab79c0fb0c2.png)
-
-
-
 ```
 --image:directory of images , --model:directory of saved weight
 !python load_model.py --images dataset/covid --model saved_model.model
 ```
+
+![newResults](https://user-images.githubusercontent.com/53394692/106427649-f8edfa00-647c-11eb-9e52-d324e9f7aaf4.png)
+![Results](https://user-images.githubusercontent.com/53394692/106427996-7fa2d700-647d-11eb-9a34-7ab79c0fb0c2.png)
+
+
 ## License
 >[Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning by Adrian Rosebrock](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
