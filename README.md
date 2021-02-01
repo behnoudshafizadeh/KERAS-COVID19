@@ -2,7 +2,7 @@
 >* [dataset](#dataset)
 >* [pptx_file](#pptx_file)
 >* [code](#code)
->* [result chart](#result chart)
+>* [result_chart](#result_chart)
 >* [Results.png and newResults.png](#Results.png and newResults.png)
 >* [License](#License)
 
@@ -24,7 +24,7 @@ dataset = "/content/drive/My Drive/keras-covid-19/dataset"
 ```
 > after setting the dataset path ,you can be able to running each cell in colab,and see the results,finally after training different epochs,the model will create the `saved_model` with `.model` format(weight file) and `result chart.png`
 
-## result chart
+## result_chart
 > see the training loss and accuracy in this chart that illustrates the loss is decrasing and the accuracy is increasing in both of them (training and validation)
 
 ![result chart](https://user-images.githubusercontent.com/53394692/106428180-cbee1700-647d-11eb-8bbd-4c36c45fc935.png)
