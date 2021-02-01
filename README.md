@@ -28,9 +28,8 @@ dataset = "/content/drive/My Drive/keras-covid-19/dataset"
 
 ## Results.png and newResults.png 
 > for seeing the model result in covid+ and covid- images,run the following command in your `covid-colab.ipynb` file:
-
-> example:
 ![newResults](https://user-images.githubusercontent.com/53394692/106427649-f8edfa00-647c-11eb-9e52-d324e9f7aaf4.png)
+![Results](https://user-images.githubusercontent.com/53394692/106427996-7fa2d700-647d-11eb-9a34-7ab79c0fb0c2.png)
 
 
 
