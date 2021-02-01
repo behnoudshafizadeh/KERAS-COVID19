@@ -25,6 +25,8 @@ dataset = "/content/drive/My Drive/keras-covid-19/dataset"
 
 ## result chart
 > see the training loss and accuracy in this chart that illustrates the loss is decrasing and the accuracy is increasing in both of them (training and validation)
+![Results](https://user-images.githubusercontent.com/53394692/106427996-7fa2d700-647d-11eb-9a34-7ab79c0fb0c2.png)
+
 
 ## Results.png and newResults.png 
 > for seeing the model result in covid+ and covid- images,run the following command in your `covid-colab.ipynb` file:
