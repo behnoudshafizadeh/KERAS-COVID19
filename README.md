@@ -12,7 +12,7 @@
 
 > notice:you can be able to use your own dataset by putting them in these folders.
 
-## .pptx file
+## .pptx_file
 > my peresentation about this project contents such as model,Code,dataset,... is explained in this file. 
 
 ## covid-colab.ipynb
