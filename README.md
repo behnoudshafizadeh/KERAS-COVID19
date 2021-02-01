@@ -1,9 +1,9 @@
 # Detecting COVID-19 in X-ray images using deep learning in Google Colab
->* [dataset](#dataset1)
->* [.pptx file](#explanation about this project)
->* [covid-colab.ipynb](#Code)
+>* [dataset](#dataset)
+>* [.pptx file](#.pptx file)
+>* [covid-colab.ipynb](#covid-colab.ipynb)
 >* [result chart](#result chart)
->* [Results.png and newResults.png](#output)
+>* [Results.png and newResults.png](#Results.png and newResults.png)
 >* [License](#License)
 
 
