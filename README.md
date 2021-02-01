@@ -1,7 +1,7 @@
 # Detecting COVID-19 in X-ray images using deep learning in Google Colab
 >* [dataset](#dataset)
 >* [pptx_file](#pptx_file)
->* [covid-colab.ipynb](#covid-colab.ipynb)
+>* [code](#code)
 >* [result chart](#result chart)
 >* [Results.png and newResults.png](#Results.png and newResults.png)
 >* [License](#License)
@@ -15,8 +15,8 @@
 ## pptx_file
 > my peresentation about this project contents such as model,Code,dataset,... is explained in this file. 
 
-## covid-colab.ipynb
->  this file is prepared for runing code in google colab,before running code,,you must set the correct path in code file that is showed below:
+## code
+>  `covid-colab.ipynb` is prepared for runing code in google colab,before running code,,you must set the correct path in code file that is showed below:
 
 ```
 #dataset path 
