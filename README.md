@@ -13,7 +13,7 @@
 > notice:you can be able to use your own dataset by putting them in these folders.
 
 ## pptx_file
-> my peresentation about this project contents such as model,Code,dataset,... is explained in this file. 
+> my peresentation about this project contents such as model,Code,dataset,... is explained in `covid 19 with VGG16.pptx`. 
 
 ## code
 >  `covid-colab.ipynb` is prepared for runing code in google colab,before running code,,you must set the correct path in code file that is showed below:
