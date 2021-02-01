@@ -29,6 +29,8 @@ dataset = "/content/drive/My Drive/keras-covid-19/dataset"
 ## Results.png and newResults.png 
 > for seeing the model result in covid+ and covid- images,run the following command in your `covid-colab.ipynb` file:
 
+
+
 ```
 --image:directory of images , --model:directory of saved weight
 !python load_model.py --images dataset/covid --model saved_model.model
